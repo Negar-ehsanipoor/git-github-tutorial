@@ -1,0 +1,4 @@
+python
+git 
+docker 
+vs code
