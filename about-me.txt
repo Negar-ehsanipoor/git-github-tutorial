@@ -2,3 +2,4 @@ Name: Negar
 Favorite language: Python
 Reason: Learning Git for version controlloiogit iidf
 i want to learn advanced ...
+i am learning git and github 
